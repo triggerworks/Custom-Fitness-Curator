@@ -1,0 +1,7 @@
+{
+  "name": "ForgeAI: Custom Fitness Curator",
+  "description": "An AI-powered fitness application that generates personalized workout plans based on your equipment, goals, and schedule, while tracking progress and providing motivation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
